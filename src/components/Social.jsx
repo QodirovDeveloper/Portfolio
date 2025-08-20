@@ -72,7 +72,7 @@ export default function Social() {
               })} scale-[80%]`}
               onClick={() => {
                 window?.open(
-                  <a href="mailto:startfly58@gmail.com?subject=Hasanboy Qodirovga xat"></a>
+                  "mailto:hasanboy.qodirov.web@gmail.com?subject=Hasanboy Qodirovga xat"
                 );
               }}
             >
@@ -101,10 +101,7 @@ export default function Social() {
                 size: "icon",
               })} scale-[80%]`}
               onClick={() => {
-                window?.open(
-                  "https://github.com/QodirovDeveloper",
-                  "_blank"
-                );
+                window?.open("https://github.com/QodirovDeveloper", "_blank");
               }}
             >
               <GitHubLogoIcon />
