@@ -3,24 +3,32 @@ import { Link } from "lucide-react";
 
 const projectList = [
   {
-    title: "Yaqin Kunlarda.",
-    href: "https://",
-    description: "",
+    title: "Unsplash Photos Clone.",
+    href: "https://unsplash-photo-ten.vercel.app",
+    description:
+      "Foydalanuvchilar rasmlarni qidirishi, ko‘rishi va yuklashi mumkin bo‘lgan Unsplash kloni. React, Tailwind CSS, Framer Motion, Axios, Redux va MockAPI asosida qurilgan.",
   },
   {
-    title: "Yaqin Kunlarda..",
-    href: "https://",
-    description: "",
+    title: "Healthy Recipe Finder",
+    href: "https://recipe-finderr-two.vercel.app",
+    description:
+      "Sog‘lom taom retseptlarini qidirish, ko‘rish va qo‘shish imkonini beruvchi React va Tailwind CSS, Framer Motion, Axios va MockAPI dasturi.",
   },
   {
-    title: "Yaqin Kunlarda...",
-    href: "https://",
-    description: "",
+    title: "YouTube Clone",
+    href: "https://youtube-2-tau.vercel.app",
+    description: "YouTube’ga o‘xshash video platforma.",
   },
   {
-    title: "Yaqin Kunlarda....",
-    href: "https://",
-    description: "",
+    title: "Telegram Clone",
+    href: "https://telegram-clone-eight-brown.vercel.app",
+    description:
+      "Telegram ilovasining frontend ko‘rinishi. Next.js, TypeScript, Shadcn UI va Tailwind CSS yordamida yaratilgan.",
+  },
+  {
+    title: "Wildberries Clone",
+    href: "https://wildberries-uz.netlify.app",
+    description: "Wildberries uslubidagi onlayn do‘kon frontend loyihasi.",
   },
 ];
 
