@@ -17,7 +17,7 @@ const projectList = [
   },
   {
     title: "YouTube Clone",
-    href: "https://youtube-2-tau.vercel.app",
+    href: "https://youtube-clone-iota-azure.vercel.app",
     description: "YouTube’ga o‘xshash video platforma.",
   },
   {
