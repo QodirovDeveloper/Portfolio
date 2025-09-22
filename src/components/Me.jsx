@@ -16,7 +16,7 @@ export default function Me() {
             </Avatar>
             <div className="flex flex-col text-center items-center sm:text-left sm:items-start animate-slide-top delay-300">
               <h2 className="text-2xl font-medium mb-1 sm:text-4xl">
-              Hasanboy Qodirov
+                Hasanboy Qodirov
               </h2>
               <p className="text-slate-500 text-lg font-medium mb-2 sm:text-2xl">
                 Frontend dasturchi
@@ -31,7 +31,11 @@ export default function Me() {
               necha qator kod bilan{" "}
               <span className="underline font-medium">hal qilishimga</span>{" "}
               ishonasizmi?
+              <br />
+              Maqsad: Tezroq tajriba orttirish va Rossiyada
+              qiynalayotgan Oʻzbeklar sonini kamaytirish.
             </p>
+
             <div className="flex gap-5">
               <Link
                 className={`${buttonVariants({
