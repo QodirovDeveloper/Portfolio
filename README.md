@@ -1,1 +1,1 @@
-## ilhomlandim.uz
+## https://hasanboy-portfolio-uz.netlify.app
