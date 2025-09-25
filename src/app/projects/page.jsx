@@ -22,7 +22,7 @@ const projectList = [
   },
   {
     title: "Telegram Clone",
-    href: "https://telegram-clone-eight-brown.vercel.app",
+    href: "https://telegram-clone-psi-bay.vercel.app",
     description:
       "Telegram ilovasining frontend ko‘rinishi. Next.js, TypeScript, Shadcn UI va Tailwind CSS yordamida yaratilgan.",
   },
