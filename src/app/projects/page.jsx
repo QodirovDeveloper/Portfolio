@@ -20,17 +20,17 @@ const projectList = [
     href: "https://youtube-clone-iota-azure.vercel.app",
     description: "YouTube’ga o‘xshash video platforma.",
   },
-  {
-    title: "Telegram Clone",
-    href: "https://telegram-clone-psi-bay.vercel.app",
-    description:
-      "Telegram ilovasining frontend ko‘rinishi. Next.js, TypeScript, Shadcn UI va Tailwind CSS yordamida yaratilgan.",
-  },
-  {
-    title: "Wildberries Clone",
-    href: "https://wildberries-uz.netlify.app",
-    description: "Wildberries uslubidagi onlayn do‘kon frontend loyihasi.",
-  },
+  // {
+  //   title: "Telegram Clone",
+  //   href: "https://telegram-clone-psi-bay.vercel.app",
+  //   description:
+  //     "Telegram ilovasining frontend ko‘rinishi. Next.js, TypeScript, Shadcn UI va Tailwind CSS yordamida yaratilgan.",
+  // },
+  // {
+  //   title: "Wildberries Clone",
+  //   href: "https://wildberries-uz.netlify.app",
+  //   description: "Wildberries uslubidagi onlayn do‘kon frontend loyihasi.",
+  // },
 ];
 
 export default function page() {
