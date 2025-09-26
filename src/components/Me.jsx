@@ -31,9 +31,6 @@ export default function Me() {
               necha qator kod bilan{" "}
               <span className="underline font-medium">hal qilishimga</span>{" "}
               ishonasizmi?
-              <br />
-              Maqsad: Tezroq tajriba orttirish va Rossiyada
-              qiynalayotgan Oʻzbeklar sonini kamaytirish.
             </p>
 
             <div className="flex gap-5">
