@@ -35,7 +35,7 @@ export default function Me() {
               Maqsad: Tezroq tajriba orttirish va Rossiyada
               qiynalayotgan Oʻzbeklar sonini kamaytirish.
             </p>
-
+            
             <div className="flex gap-5">
               <Link
                 className={`${buttonVariants({
